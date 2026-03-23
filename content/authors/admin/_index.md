@@ -6,22 +6,26 @@ title: Kevin Denamganaï
 superuser: true
 
 # Role/position/tagline
-role: IGGI PhD Student
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of York
-  url: https://www.york.ac.uk/
+- name: University of Edinburgh
+  url: https://www.ed.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in (Natural) Language Emergence & Grounding, Unsupervised Representation Learning and Deep ((Multi-Agent) Reinforcement/Imitation) Learning.
+bio: My research interests are in Language Emergence & Grounding (e.g. Emergent Communication), Unsupervised Representation Learning, Natural Language Processing (NLP) & Generative AI, and Deep ((Multi/Single-Agent) Reinforcement/Imitation) Learning.
 
 # Interests to show in About widget
 interests:
 - Unsupervised Representation Learning
 - Language Grounding
-- Language Emergence
-- Deep Reinforcement Learning
+- Language Emergence (Emergent Communication)
+- (Multi/Single-Agent) Deep Reinforcement Learning
+- Imitation Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- Deep Learning
 - Basketball
 - Kendo
 - Meditation
@@ -30,9 +34,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: IGGI PhD Student
+  - course: IGGI PhD
     institution: University of York
-    year: 2022
+    year: 2026 (expected)
   - course: Master Recherche - Intelligence Artificielle et Robotique
     institution: Université de Cergy-Pontoise
     year: 2017
@@ -78,10 +82,14 @@ email: ""
 highlight_name: false
 ---
 
-Good morning (maybe?)! My name is Kevin Denamganaï, I am a PhD Student at the University of York, in the context of the [IGGI program](https://iggi.org.uk/). I am advised by [Dr James Alfred Walker](https://scholar.google.com/citations?user=Yl5OycsAAAAJ) and [Dr Sondess Missaoui](https://scholar.google.com/citations?hl=en&user=K2yUNQIAAAAJ).
+Good morning (maybe?)! My name is Kevin Denamganaï, I am a researcher in Artificial Intelligence and Robotics.
+
+As a Postdoctoral Research Associate at the University of Edinburgh, I am being advised by [Dr Kartic Subr](https://scholar.google.com/citations?user=6FYGyMQAAAAJ&hl=en) and working closely with [Sean Memery](https://scholar.google.com/citations?user=tV_-0nQAAAAJ&hl=en).
+
+During my time as a PhD Researcher at the University of York, in the context of the [IGGI program](https://iggi.org.uk/), I have been advised by [Dr James Alfred Walker](https://scholar.google.com/citations?user=Yl5OycsAAAAJ) and [Dr Sondess Missaoui](https://scholar.google.com/citations?hl=en&user=K2yUNQIAAAAJ).
 
 My main research is in Language Emergence and Grounding to support cooperation, aiming to understand how compositional communication emerges and whether it can be linked to systematicity/(algebraic) generalisation abilities, and be levered towards solving the agent alignment problem.
 
 When I am stuck in this main research, I cope by letting my curiosity loose and so I am usually inquisitive about Unsupervised Representation Learning and Multi-Agent Deep Reinforcement Learning, trying to understand more about the emergence of (situated) cooperation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2023_07.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2026_03.pdf" "newtab" >}}resumé{{< /staticref >}}.
