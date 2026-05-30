@@ -6,25 +6,26 @@ title: Kevin Denamganaï
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: Independent Researcher
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: University of Edinburgh
-  url: https://www.ed.ac.uk/
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in Language Emergence & Grounding (e.g. Emergent Communication), Unsupervised Representation Learning, Natural Language Processing (NLP) & Generative AI, and Deep ((Multi/Single-Agent) Reinforcement/Imitation) Learning.
+bio: My research investigates the conditions under which AI systems acquire and deploy structured symbolic representations — towards in-context grounding of novel atomic symbols and their systematic recombination into unseen configurations — spanning Compositional Generalisation, Formal Mathematics, Differentiable Language Models, and Physical Simulation. I have also investigated Language Emergence & Grounding (Emergent Communication), Unsupervised Representation Learning, Natural Language Processing, and Multi-Agent Deep Reinforcement Learning.
 
 # Interests to show in About widget
 interests:
+- Compositional Generalisation
+- Formal Mathematics
 - Unsupervised Representation Learning
 - Language Grounding
 - Language Emergence (Emergent Communication)
 - (Multi/Single-Agent) Deep Reinforcement Learning
 - Imitation Learning
 - Natural Language Processing (NLP)
-- Generative AI
+- Generative & Agentic AI
+- Physical Simulation
 - Deep Learning
 - Basketball
 - Kendo
@@ -84,12 +85,16 @@ highlight_name: false
 
 Good morning (maybe?)! My name is Kevin Denamganaï, I am a researcher in Artificial Intelligence and Robotics.
 
-As a Postdoctoral Research Associate at the University of Edinburgh, I am being advised by [Dr Kartic Subr](https://scholar.google.com/citations?user=6FYGyMQAAAAJ&hl=en) and working closely with [Sean Memery](https://scholar.google.com/citations?user=tV_-0nQAAAAJ&hl=en).
+I am currently an Independent Researcher, seeking my next research position, and would welcome any opportunity to continue any of the following lines of work.
 
-During my time as a PhD Researcher at the University of York, in the context of the [IGGI program](https://iggi.org.uk/), I have been advised by [Dr James Alfred Walker](https://scholar.google.com/citations?user=Yl5OycsAAAAJ) and [Dr Sondess Missaoui](https://scholar.google.com/citations?hl=en&user=K2yUNQIAAAAJ).
+I have just finished a Postdoctoral Research Associate role at the University of Edinburgh where I was supervised by [Dr Kartic Subr](https://scholar.google.com/citations?user=6FYGyMQAAAAJ&hl=en) and working closely with [Sean Memery](https://scholar.google.com/citations?user=tV_-0nQAAAAJ&hl=en).
 
-My main research is in Language Emergence and Grounding to support cooperation, aiming to understand how compositional communication emerges and whether it can be linked to systematicity/(algebraic) generalisation abilities, and be levered towards solving the agent alignment problem.
+My research investigates the conditions under which AI systems acquire and deploy structured symbolic representations — beyond mere recombination of prelearned symbols — towards **in-context grounding of novel atomic symbols and their systematic recombination into unseen configurations**. I formalised this capacity as **Compositional Learning Behaviours (CLBs)** — one of several Symbolic Behaviours that autonomous agents must exhibit to manipulate symbolic structures — operationalised them through the **Symbolic Behaviour Benchmark (S2B)** and the proposed Meta-Referential Game framework, and demonstrated empirically that **CLB competency is a necessary but not sufficient condition for Olympiad-level formal mathematical verification** ([arXiv:2605.28512](https://arxiv.org/abs/2605.28512)). This result traces a direct line from the compositional evaluation framework pioneered in Meta-Referential Games to the frontier of formal AI reasoning, establishing a structural diagnostic gap in the automated theorem proving literature.
 
-When I am stuck in this main research, I cope by letting my curiosity loose and so I am usually inquisitive about Unsupervised Representation Learning and Multi-Agent Deep Reinforcement Learning, trying to understand more about the emergence of (situated) cooperation.
+In parallel, I developed **EReLELA**, showing that emergent language abstractions can serve as structured exploration bonuses in sparse-reward RL, and the **Differentiable Language Model (DLM)** framework — a paradigm shift redefining Language Models as functions over sequences of probability distributions, enabling end-to-end differentiability for any frozen LM via Gumbel-Softmax gradient estimators.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2026_05.pdf" "newtab" >}}resumé{{< /staticref >}}.
+The unifying aim across all these lines is to understand what must be true of AI systems for them to generalise reliably and co-operate efficiently with human beings — and to build the frameworks and tools that make that question answerable.
+
+During my PhD at the University of York (IGGI CDT), advised by [Dr James Alfred Walker](https://scholar.google.com/citations?user=Yl5OycsAAAAJ) and [Dr Sondess Missaoui](https://scholar.google.com/citations?hl=en&user=K2yUNQIAAAAJ), I investigated language emergence and the systematicity of neural players in Referential Games, developing a nomenclature and Pytorch-based framework, entitled ReferentialGym, for the subfield's deep learning resurgence.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2026_06.pdf" "newtab" >}}resumé{{< /staticref >}}.
