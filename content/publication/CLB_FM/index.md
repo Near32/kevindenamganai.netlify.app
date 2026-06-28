@@ -15,9 +15,9 @@ tags: ["Compositional Learning Behaviours", "Formal Mathematics", "Automated The
 
 featured: true
 
-url_pdf: 'https://arxiv.org/abs/2605.28512'
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://openreview.net/forum?id=M3kKajgMpY'
+url_code: 'https://github.com/Near32/OnCLBinFM'
+url_dataset: 'https://github.com/Near32/SymbolicBehaviourBenchmark/tree/S2B-LM'
 url_poster: ''
 url_project: ''
 url_slides: ''
