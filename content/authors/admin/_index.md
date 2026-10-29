@@ -97,4 +97,4 @@ The unifying aim across all these lines is to understand what must be true of AI
 
 During my PhD at the University of York (IGGI CDT), advised by [Dr James Alfred Walker](https://scholar.google.com/citations?user=Yl5OycsAAAAJ) and [Dr Sondess Missaoui](https://scholar.google.com/citations?hl=en&user=K2yUNQIAAAAJ), I investigated language emergence and the systematicity of neural players in Referential Games, developing a nomenclature and Pytorch-based framework, entitled ReferentialGym, for the subfield's deep learning resurgence.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2026_07.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV2026_11_AISafety_v1.pdf" "newtab" >}}resumé{{< /staticref >}}.
